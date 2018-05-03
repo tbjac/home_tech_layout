@@ -1,0 +1,40 @@
+.header-front .menu{
+    font-size: 18px;
+}
+
+
+/* Follow Zone */
+
+.follow_zone{
+    padding: 10px 0;
+    margin-bottom: 20px;
+    background-color: #df9000;
+    color: #ffffff;
+}
+.follow_zone span{
+    margin-right: 30px;
+}
+.follow_zone a{
+    margin-top: -7px;
+    margin-right: 10px;
+}
+
+/* FOOTER */
+.footer{
+    padding: 20px 0;
+    background-color: #404040;
+}
+
+.footer .footer_list_title{
+    color: #ffffff;
+}
+
+.footer a{
+    color: #B6B6B6;
+}
+
+.copyright{
+    padding: 10px 0;
+    background-color: #262626;
+    color: #B6B6B6;
+}
